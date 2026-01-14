@@ -3,8 +3,20 @@
 Catatan belajar dan portofolio dari program Google Cloud AI Study Jam: #JuaraGCP Season 12.
 
 ## Tentang Saya
-Nama: Hizfanno  
-Fokus: Belajar Cloud & AI dari nol
+Nama: Hizfanno Leoesa Yusuf Putra
+Background: Network & Security Engineer (±2 tahun)
+
+Pengalaman utama:
+- Hardening Check Point Firewall berbasis CIS
+- Monitoring & maintenance Check Point Firewall (BTN)
+- Konfigurasi dan maintenance Palo Alto Prisma (BPJS Kesehatan)
+- Integrasi MFA: LDAP + Palo Alto + Okta
+- Network & data center support (PASPAMPRES)
+
+Sekarang fokus belajar:
+- Google Cloud
+- Cloud Security
+- AI & automation
 
 ## Target
 - Menyelesaikan semua lab JuaraGCP
